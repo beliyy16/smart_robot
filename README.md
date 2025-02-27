@@ -64,6 +64,11 @@ Uses Raspberry Pi for motor control and data processing.
 
 Provides precise navigation using a servo motor.
 
+
+[![Python](https://img.shields.io/badge/python-3.12-000?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.java.com/en/)
+
+
+
 Contributing
 
 To contribute to this project, you can submit a pull request or open an issue.
