@@ -66,6 +66,8 @@ Provides precise navigation using a servo motor.
 
 
 [![Python](https://img.shields.io/badge/python-3.12-000?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.java.com/en/)
+[![Arduino UNO](https://img.shields.io/badge/Arduino%20UNO-C70D2C?style=for-the-badge&logo=arduino&color=00878F)](https://www.arduino.cc/)
+[![Raspberry Pi 4B](https://img.shields.io/badge/Raspberry%20Pi%204B-C70D2C?style=for-the-badge&logo=raspberrypi&color=A22846)](https://www.raspberrypi.com/)
 
 
 
